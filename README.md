@@ -5,7 +5,7 @@ Two small experiments built on Pólya's recurrence theorem:
 1. **Simulation (1D–5D):** how likely is a simple random walk to ever return to its starting point, as the dimension grows?
 2. **Market test:** how close are daily Nifty 50 prices (2016–2026) to a random walk?
 
-Author: Ketan Vishnoi, B.S. (Data Science), Indian Statistical Institute, Delhi · [your email]
+Author: Ketan Vishnoi, B.S. (Data Science), Indian Statistical Institute, Delhi · 
 
 This is a student exploration, not a published result. See *Limitations* below.
 
